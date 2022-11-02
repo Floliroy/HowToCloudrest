@@ -5,7 +5,7 @@ HowToCloudrest = HowToCloudrest or {}
 local HowToCloudrest = HowToCloudrest
 
 HowToCloudrest.name = "HowToCloudrest"
-HowToCloudrest.version = "1.2"
+HowToCloudrest.version = "1.2.1"
 
 -- local WROTHGAR_MAP_INDEX  = 27
 -- local WROTHGAR_MAP_STEP_SIZE = 1.428571431461e-005

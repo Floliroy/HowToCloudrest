@@ -1,7 +1,7 @@
 ## Title: HowTo|cff00ffCloudrest|r
-## APIVersion: 101033
+## APIVersion: 101033 101036
 ## Author: Floliroy, @nogetrandom[PC EU], XL_Olsen
-## Version: 1.2
+## Version: 1.2.1
 ## DependsOn: LibAddonMenu-2.0>=30
 ## SavedVariables: HowToCloudrestVariables
 
